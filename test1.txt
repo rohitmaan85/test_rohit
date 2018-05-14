@@ -1,3 +1,4 @@
 test 1 file by rohit on master branch 
 commit 1
+commit3
 commit 2 from dev branch to create conflict
